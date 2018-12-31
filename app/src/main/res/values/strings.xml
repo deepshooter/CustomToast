@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomToast</string>
+    <string name="successfully_downloaded">Successfully downloaded !</string>
+    <string name="something_went_wrong">Something went wrong !</string>
+    <string name="plain_toast">Plain Toast</string>
+    <string name="toast_with_image">Toast with Image</string>
+</resources>
